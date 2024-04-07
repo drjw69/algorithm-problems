@@ -1,3 +1,5 @@
+--- https://leetcode.com/problems/longest-substring-without-repeating-characters/description/
+
 left = 0 
 max_length = 0 (returned value)
 char_set = set() 
